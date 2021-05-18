@@ -1,7 +1,8 @@
-![alt text](https://i.imgur.com/RSFijx0m.jpg)
+![BiteBoard Logo](https://i.imgur.com/RSFijx0m.jpg)
 
 ### BiteBoard. Your recipes, all in one place! Add recipes and easily browse through your online cookbook. :fork_and_knife:
 
+[View the Live Demo] (https://biteboard.herokuapp.com)
 
 #### Project By: 
 * Mary Ann Navarrete
